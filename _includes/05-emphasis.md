@@ -1,3 +1,6 @@
+<details>
+  <summary>emphasis</summary>
+
 *italic test*
 _underscores work too_
 
@@ -5,3 +8,5 @@ _underscores work too_
 __double underscores__
 
 _italic **bold** combination works_
+
+</details>
