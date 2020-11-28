@@ -1,4 +1,4 @@
-</details>
+<details>
 
 <summary>A list can be created in a drop down</summary>
 <ul><li>This dropdown contains</li>
