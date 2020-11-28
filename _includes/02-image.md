@@ -8,6 +8,5 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/911d5AdE4pL._RI_.jpg" width="500">
 <br>
 <img src="https://f4.bcbits.com/img/0017910051_0" width="500">
-<br>
 
 </details>
