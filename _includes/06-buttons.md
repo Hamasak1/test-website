@@ -1,5 +1,5 @@
-<details>
-<summary>This part has buttons!</summary>
+# Buttons!
+
 |[Click here](https://github.com/)|
 |---|
-</details>
+
