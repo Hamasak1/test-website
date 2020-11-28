@@ -1,4 +1,5 @@
-This part contains links! 
+<details>
+  <summary>This part contains links!</summary>
 
 [GitHub](http://github.com)
 
@@ -9,3 +10,5 @@ This part contains links!
 [Reddit](reddit.com)
 
 [Twitch](www.twitch.tv)
+
+</details>
