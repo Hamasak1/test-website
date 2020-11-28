@@ -3,7 +3,9 @@ author: Hamasak1
 email: insert-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   test website to see what is possible, this description should be shown in a google
-  search for this website. links should work in this description too (https://github.com/Hamasak1)
+  search for this website. 
+  
+  links should work in this description too (https://github.com/Hamasak1)
 
 # social links
 twitter_username: insert-twitter-handle # DO NOT include the @ character, or else the build will fail!
